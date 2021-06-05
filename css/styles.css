@@ -1,7 +1,7 @@
 img {
   width: 250px;
   float: right;
-  margin-top: 25px;
+  margin-top: 70px;
 }
 
 .jumbotron .container h1 {
@@ -11,4 +11,21 @@ img {
 .jumbotron .container h2 {
   text-align: center;
   font-size: medium;
+}
+
+.box {
+  width: 250px;
+  border: 3px solid orange;
+  float:left;
+  margin-top: 70px;
+}
+
+.column {
+  width: 250px;
+  border: 3px solid red;
+  margin-top: 270px;
+}
+
+.highlight {
+  color: red;
 }
