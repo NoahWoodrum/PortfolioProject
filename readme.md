@@ -21,8 +21,8 @@ _This website is made to show what I have learned in HTML and CSS, This includes
 * _Navigate to the top of the directory_
 * _open with the GUI_
 
-_link to Github repository(https://github.com/NoahWoodrum/PortfolioProject.git)
-
+_link to Github repository
+NoahWoodrum.github.io/PortfolioProject
 
 ## Known Bugs
 
